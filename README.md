@@ -4,7 +4,7 @@
 
 ### Installation
 
-1. Click [here]([https://github.com/Imeanbusiness/TerryBot2.0/archive/refs/tags/Beta.1.0.zip](https://github.com/Imeanbusiness/TerryBot/archive/refs/tags/Beta-Testing.zip)) to download.
+1. Click [here](https://github.com/Imeanbusiness/TerryBot/archive/refs/tags/Beta-Testing.zip) to download.
 
 2. Unzip the folder
 
